@@ -6,4 +6,4 @@
 
 ## 2. Visit
 
-[Random Quote Machine]()
+[Random Quote Machine](https://hon-nova.github.io/random-quote-machine/)
